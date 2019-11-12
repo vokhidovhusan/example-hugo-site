@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://jeonguuz.github.io/example-hugo-site/"
 languageCode = "en-us"
 publishDir = "docs"
 title = "Minimal"
