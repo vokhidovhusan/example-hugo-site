@@ -2,6 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b68a0e6-7a05-4a60-8720-8ecc1798a9b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/helper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/owl.transitions.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.sea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.violet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/a4-paper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/book_icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/business-card-26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/business-card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/envelope-brand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/gravity-paper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/ipad-air-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/label-clothes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/paper-presentation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/portfolio/trifold.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/ekko-lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/front.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/jquery.scrollTo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/portfolio/work9/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minimal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal/exampleSite/content/about.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal/exampleSite/content/post/creating-a-new-theme.md" beforeDir="false" />
@@ -20,8 +89,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -81,8 +149,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="240">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -132,44 +200,6 @@
             <path>
               <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="_gen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,6 +251,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25213677" />
@@ -465,8 +496,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="240">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>

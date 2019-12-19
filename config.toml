@@ -14,10 +14,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2019 Orol.xyz"
   sidebarAbout = [
     "Read a book before someone else read it.",
-    "Originally from Toronto, currently based in London."
+    "Books here will be provided in different languages."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
