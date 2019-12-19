@@ -12,4 +12,4 @@ title = "About us"
 * We want to translate a lot of books.
 
 We want to translate books into different languages
-[1]: /img/portfoli/book_icon.jpg
+[1]: /img/portfolio/book_icon.jpg
