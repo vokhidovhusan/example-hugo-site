@@ -1,4 +1,3 @@
-#baseurl = "https://example.org/"
 baseURL = "https://jeonguuz.github.io/example-hugo-site/"
 title = "Orol"
 publishDir = "docs"
@@ -17,7 +16,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Read a book before someone else read it.",
     "Originally from Toronto, currently based in London."
   ]
   # Contact page
