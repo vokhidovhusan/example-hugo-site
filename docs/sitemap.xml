@@ -3,102 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/project/project1/</loc>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/project/project2/</loc>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/project/project3/</loc>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/project/project4/</loc>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work10/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://jeonguuz.github.io/example-hugo-site/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://jeonguuz.github.io/example-hugo-site/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/bootstrap/</loc>
+    <loc>https://jeonguuz.github.io/example-hugo-site/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeonguuz.github.io/example-hugo-site/portfolio/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -106,31 +82,7 @@
   </url>
   
   <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/css/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/html/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/responsive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeonguuz.github.io/example-hugo-site/tags/syntax-highlighting/</loc>
+    <loc>https://jeonguuz.github.io/example-hugo-site/tags/</loc>
   </url>
   
 </urlset>
