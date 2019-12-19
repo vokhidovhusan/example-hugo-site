@@ -2,7 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b68a0e6-7a05-4a60-8720-8ecc1798a9b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/a.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/creating-a-new-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/goisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/hugoisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/migrate-from-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/project1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/project2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/project3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/project4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/about/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/contact/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/contact/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work10.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work11.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work4.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work5.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work6.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work7.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work8.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work9.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/portfolio/work9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/a4-paper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/a4-paper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/business-card-26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/business-card-26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/business-card.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/business-card.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/envelope-brand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/envelope-brand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/gravity-paper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/gravity-paper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/ipad-air-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/ipad-air-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/label-clothes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/label-clothes.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/paper-presentation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/paper-presentation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/trifold.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/trifold.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/images/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/images/tn.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/tn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_analytics/matomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_analytics/matomo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/baseof.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/about/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/about/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/contact/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/contact/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/attribution.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/attribution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/mobile_nav_toggle.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/mobile_nav_toggle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/social_buttons_in_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/social_buttons_in_contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/layouts/partials/social_buttons_in_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/social_buttons_in_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/helper.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/helper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/owl.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/owl.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/owl.transitions.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/owl.transitions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.pink.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.pink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.red.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.sea.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.sea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/css/style.violet.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.violet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/ekko-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/ekko-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/front.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/front.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/imagesloaded.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/jquery.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/jquery.scrollTo.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.scrollTo.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/masonry.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/masonry.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/static/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minimal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal/exampleSite/content/about.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal/exampleSite/content/post/creating-a-new-theme.md" beforeDir="false" />
@@ -27,55 +112,63 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/images/screenshot.png">
+        <entry file="file://$PROJECT_DIR$/static/img/portfolio/business-card-26.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/front.js">
+        <entry file="file://$PROJECT_DIR$/static/img/portfolio/paper-presentation.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/.travis.yml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/jquery.min.js">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/bootstrap.min.js">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/LICENSE">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/ekko-lightbox.js">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/README.md">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/jquery.cookie.js">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/archetypes/default.md">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/masonry.pkgd.min.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/owl.carousel.min.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/jquery.scrollTo.min.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/archetypes/portfolio.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -131,7 +224,14 @@
               <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_site" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="creative-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_site" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-creative-portfolio-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="archetypes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,6 +247,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme" />
       <recent name="$PROJECT_DIR$/themes" />
     </key>
   </component>
@@ -179,7 +282,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.24908425" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.24908425" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -191,7 +294,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32513368" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32513368" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -202,115 +305,170 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/404.html">
+    <entry file="file://$PROJECT_DIR$/content/about/_index.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/CNAME">
+    <entry file="file://$PROJECT_DIR$/content/contact/_index.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/categories/index.xml">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work1.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/categories/index.html">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work2.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/about/index.html">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work3.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/goisforlovers.md">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work4.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/creating-a-new-theme.md">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work5.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/TODO.md">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work6.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/theme.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-786" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/LICENSE.md">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work7.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/.gitignore">
+    <entry file="file://$PROJECT_DIR$/content/portfolio/work8.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/layouts/_default/single.html">
+    <entry file="file://$PROJECT_DIR$/static/js/front.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/layouts/_default/list.html">
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/layouts/partials/body-close.html">
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/layouts/404.html">
+    <entry file="file://$PROJECT_DIR$/static/js/ekko-lightbox.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minimal/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.cookie.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/static/js/masonry.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/static/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/images/tn.png">
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.scrollTo.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/imagesloaded.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/fonts/FontAwesome.otf">
+      <provider selected="true" editor-type-id="fontseditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tn.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/images/screenshot.png">
+    <entry file="file://$PROJECT_DIR$/images/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/front.js">
+    <entry file="file://$PROJECT_DIR$/layouts/about/list.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/layouts/contact/list.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/layouts/404.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/ekko-lightbox.js">
+    <entry file="file://$PROJECT_DIR$/layouts/_default/list.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/jquery.cookie.js">
+    <entry file="file://$PROJECT_DIR$/layouts/_default/baseof.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/masonry.pkgd.min.js">
+    <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/owl.carousel.min.js">
+    <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/creative-theme/static/js/jquery.scrollTo.min.js">
+    <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/scripts.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/trifold.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/a4-paper.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/ipad-air-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/business-card.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/gravity-paper.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/label-clothes.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/envelope-brand.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/business-card-26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/portfolio/paper-presentation.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/archetypes/default.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-creative-portfolio-theme/archetypes/portfolio.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
