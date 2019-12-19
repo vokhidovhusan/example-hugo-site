@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b68a0e6-7a05-4a60-8720-8ecc1798a9b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minimal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal/exampleSite/content/about.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minimal/exampleSite/content/post/creating-a-new-theme.md" beforeDir="false" />
@@ -131,11 +130,6 @@
             <path>
               <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
