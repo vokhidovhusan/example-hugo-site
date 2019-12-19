@@ -1,8 +1,8 @@
 baseURL = "https://jeonguuz.github.io/example-hugo-site/"
 languageCode = "en-us"
 publishDir = "docs"
-title = "Minimal"
-theme = "minimal"
+title = "Orol"
+theme = "creative-theme"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
